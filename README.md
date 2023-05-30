@@ -1,17 +1,17 @@
 [![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)]([https://rishavchanda.io](https://www.cntech.westrift.com/))
 <h1 align="center">Hi 👋, I'm Patricia Njoroge</h1>
-<h3 align="center">Tech Educator | Software Developer from Kenya</h3>
+<h3 align="center">Tech Educator | Software Developer from Kenya | DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 
 
 <p align="left"> <img src="https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxLzg1/LzE4L2UxODUxOGM2/ZDI0MjU3YzZmYjAy/ZTNjOTVhODYyZDg1/LmdpZg.gif" alt="wanjikun" /> </p>
 
-- 🌱 I’m currently learning **DevOps Engineering**
+- 🌱 I’m currently Looking to get into **DevOps Engineering**
 
-- 💬 Ask me about **C , Java ,PHP**
+- 💬 Ask me about **DevOps, PHP\MYSQL**
 
-- 📫 How to reach me **cikunjoroge4@gmai.com**
+- 📫 How to reach me **wanjikunpatricia@gmai.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
