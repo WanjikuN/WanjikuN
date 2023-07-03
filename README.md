@@ -1,6 +1,6 @@
 [![MasterHead](https://www.edu360.com.my/images/banners/coding-banner.png)]([https://rishavchanda.io](https://www.cntech.westrift.com/))
 <h1 align="center">Hi 👋, I'm Patricia Njoroge</h1>
-<h3 align="center">Tech Educator | Software Developer from Kenya | DevOps Engineer</h3>
+<h3 align="center">Tech Educator | Software Developer | DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DevOps, PHP\MYSQL**
 
-- 📫 How to reach me **wanjikunpatricia@gmai.com**
+- 📫 How to reach me **wanjikunpatricia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
