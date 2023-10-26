@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxLzg1/LzE4L2UxODUxOGM2/ZDI0MjU3YzZmYjAy/ZTNjOTVhODYyZDg1/LmdpZg.gif" alt="wanjikun" /> </p>
 
-- 🌱 I’m currently Looking to get into **DevOps Engineering**
+- 🌱 I’m currently Looking to get into ** software Development and/or DevOps Engineering**
 
-- 💬 Ask me about **DevOps, PHP\MYSQL**
+- 💬 Ask me about **DevOps, ReactJs, Flask, PHP\MYSQL**
 
 - 📫 How to reach me **wanjikunpatricia@gmail.com**
 
