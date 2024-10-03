@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1https://imgs.search.brave.com/A3aX1quFEyURbljStYBhDutsezdnUsT2HnaMg5eeiGk/rs:fit:500:270:1/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzL2UxLzg1/LzE4L2UxODUxOGM2/ZDI0MjU3YzZmYjAy/ZTNjOTVhODYyZDg1/LmdpZg.gif" alt="wanjikun" /> </p>
 
-- 🌱 I’m currently Looking to explore **Software Development and/or DevOps Engineering**
+- 🌱 All about **Software Development and DevOps **
 
 - 💬 Ask me about **DevOps, ReactJs, Flask, PHP\MYSQL**
 
