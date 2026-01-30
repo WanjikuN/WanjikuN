@@ -8,7 +8,7 @@
 
 - 🌱 All about **Software Development and DevOps**
 
-- 💬 Ask me about **DevOps, ReactJs, Flask, PHP\MYSQL**
+- 💬 Ask me about **DevOps, ReactJs, Flask, Django**
 
 - 📫 How to reach me **wanjikunpatricia@gmail.com**
 
